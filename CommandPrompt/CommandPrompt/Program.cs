@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            Aplicacion Aplicacion = new Aplicacion();
+            Aplicacion.Iniciar();
         }
     }
 }
